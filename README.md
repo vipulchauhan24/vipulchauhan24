@@ -72,4 +72,4 @@
 
 [website]: https://www.vipulchauhan.ga/
 [instagram]: https://instagram.com/chauhan.vipul_
-[linkedin]: www.linkedin.com/in/vipul-chauhan2420
+[linkedin]: https://www.linkedin.com/in/vipul-chauhan2420
