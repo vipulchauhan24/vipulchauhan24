@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/vipul-chauhan2420/)
 
-## I'm a Frontend Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
       1. Read more books.
       2. Improve Data Structures and Algorithm
 
