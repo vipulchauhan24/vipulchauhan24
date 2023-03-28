@@ -5,9 +5,8 @@
 ## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: 
-      1. Read more books.
-      2. Improve Data Structures and Algorithm
+- 🥅 2023 Goals: 
+      1. Improve coding skills
 
 <br />
 
