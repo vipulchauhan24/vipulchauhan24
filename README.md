@@ -1,6 +1,8 @@
 <h2 align="left">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vipul Chauhan</h2>
 <h4 align="left">Software Engineer and Passionate Coder</h4>
 
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/vipul-chauhan2420/)
+
 <!-- - 🔭 Most Recent Project [BotsApp](https://github.com/Prince-Mendiratta/BotsApp) -->
 
 - 🌱 I’m currently learning **Design Patterns and Algorithms**.
