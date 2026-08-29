@@ -5,7 +5,8 @@
 
 <!-- - 🔭 Most Recent Project [BotsApp](https://github.com/Prince-Mendiratta/BotsApp) -->
 
-- 🌱 Currently learning **Design Patterns and Algorithms**.
+- Currently learning **System Design and Software Architecture**.
+- Aiming to become **Software Architecture**.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Vipul" /> </p> -->
 
