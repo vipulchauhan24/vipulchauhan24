@@ -6,7 +6,7 @@
 <!-- - 🔭 Most Recent Project [BotsApp](https://github.com/Prince-Mendiratta/BotsApp) -->
 
 - Currently learning **System Design and Software Architecture**.
-- Aiming to become **Software Architecture**.
+- Aiming to become **Software Architect**.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Vipul" /> </p> -->
 
